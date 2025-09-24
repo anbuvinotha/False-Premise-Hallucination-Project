@@ -27,7 +27,7 @@ A BTech AI & Data Science initiative to investigate and address false premise ha
 
 
 ## Contact Information
-- **Email**: [your.email@example.com]
+- **Email**: anbuvinotha15@gmail.com
 - **LinkedIn**: www.linkedin.com/in/anbuvinotha
 
 
