@@ -20,7 +20,7 @@ A BTech AI & Data Science initiative to investigate and address false premise ha
 
 ## Getting Started
 1. Clone the repository:  
-   `git clone https://github.com/yourusername/False-Premise-Hallucination-Project`
+   `git clone https://github.com/anbuvinotha/False-Premise-Hallucination-Project`
 2. Install required packages:  
    `pip install pandas numpy matplotlib`
 
