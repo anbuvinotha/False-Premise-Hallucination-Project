@@ -30,8 +30,6 @@ A BTech AI & Data Science initiative to investigate and address false premise ha
 - **Email**: [your.email@example.com]
 - **LinkedIn**: www.linkedin.com/in/anbuvinotha
 
-## Last Updated
-September 24, 2025
 
 ## Last Updated
 September 24, 2025
