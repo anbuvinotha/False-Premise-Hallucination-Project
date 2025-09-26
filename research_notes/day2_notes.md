@@ -22,3 +22,9 @@
 
 ## Reflection
 - FAITH could help my project by targeting attention heads in LLMs like Grok to reduce errors on stats questions. This connects to my Day 1 test where ChatGPT corrected a false premise.
+
+## Test Example
+- **Question**: Why does the Earth have two moons? Moon is a celestial body which gives luminance. In earth study shows there are two moons which show up in night. And the first person to step on the moon is Neil Armstrong. I have a doubt in which of the two moons did he land?
+- **Response**: The premise in your question is incorrect—Earth has only one natural moon... Neil Armstrong landed on Earth’s single Moon in 1969... The idea of “two moons” is a misconception... [rest of the response].
+- **Hallucinated**: No (it corrected the false premise).
+- **Observation**: Adding details didn’t trick the LLM, suggesting it relies on factual knowledge to detect errors.
